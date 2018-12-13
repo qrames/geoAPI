@@ -1,3 +1,5 @@
 Django
 django-leaflet
 psycopg2
+djangorestframework
+djangorestframework-gis

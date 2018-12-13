@@ -38,9 +38,11 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'django.contrib.gis',    
+    'django.contrib.gis',
 
     # dependency:
+    'rest_framework',
+    'rest_framework_gis',#this add geomodel serialaezer
     'leaflet',
     # app :
     'map',
