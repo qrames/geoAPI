@@ -42,7 +42,7 @@ INSTALLED_APPS = [
 
     # dependency:
     'rest_framework',
-    'rest_framework_gis',#this add geomodel serialaezer
+    'rest_framework_gis',#this add geomodel serializers
     'leaflet',
     # app :
     'map',
