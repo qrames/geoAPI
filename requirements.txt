@@ -3,3 +3,4 @@ django-leaflet
 psycopg2
 djangorestframework
 djangorestframework-gis
+django-cors-headers
